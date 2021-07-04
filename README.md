@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning JavaScript
 
+- 🇦🇶I’m looking to collaborate on Open-Source Projects
+
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ArnavSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnav-sharma-9a4781193)](https://www.linkedin.com/in/arnav-sharma-9a4781193)
