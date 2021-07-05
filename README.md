@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning JavaScript
 
-- 🇦🇶I’m looking to collaborate on Open-Source Projects
+- 🖖  I’m looking to collaborate on Open-Source Projects
 
 - 📫 How to reach me: 
 
