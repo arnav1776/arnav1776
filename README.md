@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on developing Android Applications on Flutter
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Machine Learning
 
 - 🖖  I’m looking to collaborate on Open-Source Projects
 
