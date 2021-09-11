@@ -18,7 +18,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=arnav1776&theme=tokyonight&show_icons=true">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact">
+
 <img src="http://github-readme-streak-stats.herokuapp.com?user=arnav1776&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact">
   
