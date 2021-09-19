@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact: "I solemnly swear that I am up to no good"
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav1776&label=Profile%20views&color=0e75b6&style=flat" alt="arnav1776" /> </p>
+
 ## Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact">
