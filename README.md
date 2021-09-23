@@ -34,3 +34,5 @@
 </p>
   
 [![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=xcode)](https://git.io/arnav1776)
+
+![snake svg](https://github.com/arnav1776/arnav1776/blob/output/github-contribution-grid-snake.svg)
