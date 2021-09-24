@@ -36,7 +36,7 @@
 [![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=xcode)](https://git.io/arnav1776)
 
 
-## Watch my contribution graph eaten by a snake🐍
+## Watch my contribution graph being eaten by a snake🐍
 
 <p align="center">
   <img src="https://github.com/arnav1776/arnav1776/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
