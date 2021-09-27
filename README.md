@@ -21,17 +21,22 @@
 
 ## Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact&show_icons=true&border_radius=40">
 
 ## Stats
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arnav1776&theme=tokyonight&show_icons=true">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=arnav1776&theme=tokyonight&show_icons=true&border_radius=40">
 
-<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=arnav1776&theme=tokyonight">
+ </p>
+ 
+ <p align="center">
 
-</p>
+<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=arnav1776&theme=tokyonight&show_icons=true&border_radius=40">
+
+ </p>
+
   
 [![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=xcode)](https://git.io/arnav1776)
 
