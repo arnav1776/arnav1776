@@ -27,13 +27,9 @@
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=arnav1776&theme=tokyonight&show_icons=true&border_radius=40">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arnav1776&theme=tokyonight&show_icons=true">
 
- </p>
- 
- <p align="center">
-
-<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=arnav1776&theme=tokyonight&show_icons=true&border_radius=40">
+<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=arnav1776&theme=tokyonight">
 
  </p>
 
