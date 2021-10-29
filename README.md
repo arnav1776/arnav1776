@@ -34,7 +34,7 @@
  </p>
 
   
-[![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=xcode)](https://git.io/arnav1776)
+[![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=react-dark&hide_border=true&area=true)](https://git.io/arnav1776)
 
 
 ## Watch my contribution graph being eaten by a snake🐍
