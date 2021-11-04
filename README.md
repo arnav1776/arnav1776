@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Data Science.
 
-- 🖖  I’m looking to collaborate on Open-Source Projects.
+- 🖖 I’m looking to collaborate on Open-Source Projects.
 
 - 📫 How to reach me: 
 
@@ -15,11 +15,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-arnav1776-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/arnav1776)](https://twitter.com/arnav1776)
 [![Instagram Badge](https://img.shields.io/badge/-arnav1776-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arnav1776/)](https://instagram.com/arnav1776)
 
-- ⚡ Fun fact: "I solemnly swear that I am up to no good"
+- ⚡ Fun fact: <i> "I solemnly swear that I am up to no good" </i>
 
 
 
-## Languages🐧
+## Languages🐧 
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact&show_icons=true&border_radius=40">
 
