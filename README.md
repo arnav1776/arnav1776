@@ -1,5 +1,12 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arnav!
 
+<br>
+
+<p align="center">
+<img width="60%" src="https://user-images.githubusercontent.com/64467851/140787298-e3f427a2-df43-4fbc-a305-c73032d9ba6d.jpeg">
+</p>
+
+<br>
 
 - 🔭 I’m currently working on developing Android Applications on Flutter.
 
