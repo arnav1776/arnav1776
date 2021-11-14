@@ -8,13 +8,13 @@
 
 <br>
 
-- 🔭 I’m currently working on developing Android Applications on Flutter.
+- 🔭 <b> I’m currently working on developing Android Applications on Flutter.</b>
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 <b> I’m currently learning Data Science.</b>
 
-- 🖖 I’m looking to collaborate on Open-Source Projects.
+- 🖖 <b> I’m looking to collaborate on Open-Source Projects.</b>
 
-- 📫 How to reach me: 
+- 📫 <b> How to reach me: </b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ArnavSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnav-sharma-9a4781193)](https://www.linkedin.com/in/arnav-sharma-9a4781193)
 [![Gmail Badge](https://img.shields.io/badge/-arnav1776@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arnav1776@gmail.com)](mailto:arnav1776@gmail.com)
@@ -22,7 +22,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-arnav1776-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/arnav1776)](https://twitter.com/arnav1776)
 [![Instagram Badge](https://img.shields.io/badge/-arnav1776-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arnav1776/)](https://instagram.com/arnav1776)
 
-- ⚡ Fun fact: <i> "I solemnly swear that I am up to no good" </i>
+- ⚡ Fun fact: <b><i> "I solemnly swear that I am up to no good" </i></b>
 
 
 
