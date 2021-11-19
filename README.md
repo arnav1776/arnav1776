@@ -25,7 +25,7 @@
 
 
 
-## Languages🐧 
+## Languages🐧
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact&show_icons=true&border_radius=40">
 
