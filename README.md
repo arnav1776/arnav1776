@@ -38,8 +38,10 @@
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=arnav1776&theme=tokyonight">
 
  </p>
+<p align="center">
+<img width="20%" src="https://c.tenor.com/KhzdbBJp6HgAAAAM/jpexplosion.gif">  
+</p>
 
-  
 [![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=react-dark&hide_border=true&area=true)](https://git.io/arnav1776)
 
 
