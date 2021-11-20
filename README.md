@@ -39,7 +39,11 @@
 
  </p>
 <p align="center">
-<img width="20%" src="https://c.tenor.com/KhzdbBJp6HgAAAAM/jpexplosion.gif">  
+<img width="15%" src="https://media0.giphy.com/media/StLnpl6sf1c3W17UNB/200w.webp?cid=ecf05e47nt99qedk92j5gg5wvmbkyi757egs2ikwmkh0oww2&rid=200w.webp&ct=g">
+<img width="15%" src="https://media0.giphy.com/media/StLnpl6sf1c3W17UNB/200w.webp?cid=ecf05e47nt99qedk92j5gg5wvmbkyi757egs2ikwmkh0oww2&rid=200w.webp&ct=g">
+<img width="15%" src="https://media0.giphy.com/media/StLnpl6sf1c3W17UNB/200w.webp?cid=ecf05e47nt99qedk92j5gg5wvmbkyi757egs2ikwmkh0oww2&rid=200w.webp&ct=g">
+<img width="15%" src="https://media0.giphy.com/media/StLnpl6sf1c3W17UNB/200w.webp?cid=ecf05e47nt99qedk92j5gg5wvmbkyi757egs2ikwmkh0oww2&rid=200w.webp&ct=g">
+<img width="15%" src="https://media0.giphy.com/media/StLnpl6sf1c3W17UNB/200w.webp?cid=ecf05e47nt99qedk92j5gg5wvmbkyi757egs2ikwmkh0oww2&rid=200w.webp&ct=g">
 </p>
 
 [![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=react-dark&hide_border=true&area=true)](https://git.io/arnav1776)
