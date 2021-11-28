@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/64467851/140787298-e3f427a2-df43-4fbc-a305-c73032d9ba6d.jpeg">
+<img width="60%" src="https://github.com/arnav1776/arnav1776/blob/main/assets/banner.jpeg">
 </p>
 <br>
 
