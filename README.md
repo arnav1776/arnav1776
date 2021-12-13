@@ -27,10 +27,7 @@
 
 ## Languages🐧
 
-<p align="">
- <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact&show_icons=true&border_radius=40">
-<!--  <img width="48%" src="https://wakatime.com/share/@arnav1776/454faabf-7582-4eb7-aac0-23d8a39130c4.svg"> -->
-</p>
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav1776&theme=tokyonight&langs_count=10&layout=compact&show_icons=true&border_radius=40">
 
 ## GitHub Stats
 
