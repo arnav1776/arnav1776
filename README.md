@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact: <b><i> "I solemnly swear that I am up to no good" </i></b>
 
+- 💥 Check out my [Github Unwrapped](https://twitter.com/arnav1776/status/1477677772025720837) for 2021
+
 
 
 ## Languages🐧
