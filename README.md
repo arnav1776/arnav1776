@@ -49,7 +49,9 @@
 </p>
 
 <p align="center">
-<img width="75%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnav1776">
+<a href="https://profile.codersrank.io/user/arnav1776/">
+<img width="75%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnav1776" alt="arnav1776">
+</a<
 </p>
 
 [![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=react-dark&hide_border=true&area=true)](https://git.io/arnav1776)
