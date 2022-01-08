@@ -48,6 +48,10 @@
 <img width="15%" src="https://raw.githubusercontent.com/arnav1776/arnav1776/main/assets/200w.webp">
 </p>
 
+<p align="center">
+<img width="75%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arnav1776">
+</p>
+
 [![Arnav's github activity graph](https://activity-graph.herokuapp.com/graph?username=arnav1776&theme=react-dark&hide_border=true&area=true)](https://git.io/arnav1776)
 
 
