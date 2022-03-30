@@ -9,7 +9,7 @@
 
 - 🔭 <b> I’m currently working on developing Android Applications on Flutter.</b>
 
-- 🌱 <b> I’m currently learning Data Science.</b>
+- 🌱 <b> I’m currently learning Node Js.</b>
 
 - 🖖 <b> I’m looking to collaborate on Open-Source Projects.</b>
 
