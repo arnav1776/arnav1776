@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arnav!<img width="3%" src="https://github.com/arnav1776/arnav1776/blob/main/assets/owl.svg">
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, I'm Arnav!<img width="3%" src="https://github.com/arnav1776/arnav1776/blob/main/assets/owl.svg">
 
 <br>
 
