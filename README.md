@@ -7,7 +7,7 @@
 </p>
 <br>
 
-- 🔭 <b> I’m currently working on developing Android Applications on Flutter.</b>
+- 🔭 <b> I’m currently working as an Associate Engineer at Indus Valley Partners.</b>
 
 - 🌱 <b> I’m currently learning NodeJs.</b>
 
