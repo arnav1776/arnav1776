@@ -9,7 +9,7 @@
 
 - 🔭 <b> I’m currently working as an Associate Engineer at Indus Valley Partners.</b>
 
-- 🌱 <b> I’m currently learning NodeJs.</b>
+- 🌱 <b> I’m currently learning Cloud Computing.</b>
 
 - 🖖 <b> I’m looking to collaborate on Open-Source Projects.</b>
 
