@@ -7,7 +7,7 @@
 </p>
 <br>
 
-- 🔭 <b> I’m currently working as an Associate Engineer at Indus Valley Partners.</b>
+- 🔭 <b> I’m currently working as an Senior Engineer at Indus Valley Partners.</b>
 
 - 🌱 <b> I’m currently learning Cloud Computing.</b>
 
